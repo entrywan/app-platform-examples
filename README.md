@@ -3,3 +3,4 @@ Some example applications running on [Entrywan's app platform](https://www.entry
 See the individual directories for examples of different languages:
 
 - [Go](/go)
+- [Clojure](/clojure)
