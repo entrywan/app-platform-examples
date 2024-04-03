@@ -7,3 +7,6 @@ See the individual directories for examples of different languages:
 - [Node.js](/nodejs)
 - [Java](/java-paketo-spring-boot)
 - [Clojure](/clojure)
+
+There's also a [blog post](https://www.entrywan.com/blog/2024-04-02-app-platform-introduction)
+with a little more background.
